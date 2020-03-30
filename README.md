@@ -6,5 +6,5 @@ ___
 - Node.js
 - React
 ___
-Esté código, foi desenvolvido, durante a **Semana OmniStack 11**, onde tive o priméiro contato com o desenvolvimente em **Node** e **React**.
+Este código, foi desenvolvido, durante a **Semana OmniStack 11**, onde tive o primeiro contato com o desenvolvimento em **Node** e **React**.
 Sendo este projeto o início dos estudos com essa **Stack**
